@@ -1,13 +1,13 @@
 // src/apiConfig.js
 export const API_CONFIG = {
     "6": {
-        "6A": "https://script.google.com/macros/s/AKfycbyiZoWe4ZcZ0-RrUkf6MgOpBM5SCOA0r8rnlVCJ6kFl9d6JyHlxibMVdeWq3JEcXA43/exec",
-        "6B1": "https://script.google.com/macros/s/AKfycbwsY63zxwWBeEFr594sN9gKdhNVGnOS-vkhPHlzYVju5-MG3gsC65BbGCs3rWadGxsa/exec",
-        "6B2": "",
-        "6C": "",
-        "6D": "",
-        "6E": "",
-        "6F": "",
+        "6A": "https://script.google.com/macros/s/AKfycbzY3pwIwlRHH0uVmljLgPWZFWTzBf3NIb-5ZdyphXeJESl0Kf-DdDzMrAh4Kyvvsp0nFw/exec",
+        "6B1": "https://script.google.com/macros/s/AKfycbxxJ77bZXCCMZUINt6IBg5DDiqalkPxoATAY0PDqFDdr3ZiuWdn44kWF1nH8dR1sggC8w/exec",
+        "6B2": "https://script.google.com/macros/s/AKfycbzpO58_bBnx4_7Pd6BeJxeHPDC7ym44Kulpg16Yd0anZURXB0X87qKJDj46g6IBZxNq/exec",
+        "6C": "https://script.google.com/macros/s/AKfycbxJCqgASNLixWnT7L2SznQ95iqRU8wBSZpslAV8rUuui-C1BBRtTAdds184_jBHo7SfoQ/exec",
+        "6D": "https://script.google.com/macros/s/AKfycbz0yo36cGLePUObM_1B6SwrhFAvfnaWd2aGTZHY5kRPHZI-BxqIX254dgGvzydP2k28/exec",
+        "6E": "https://script.google.com/macros/s/AKfycbwtWTr4l43TzfyMIYusK1ghppz2V9XJztYe6MI3yAb6k7ObF4O0P7PUzBJdH9eLz0B0Aw/exec",
+        "6F": "https://script.google.com/macros/s/AKfycbzFNL6xt6jmZrWpBGG976ZPfBL9Pr4H7xjrMm_Bz9SPWXbpXnlf57nWVkXrR4ZoGS4C/exec",
     },
     "7": {
         "7A": "", "7B": "", "7C": "", "7D": "", "7E": "", "7F": ""
