@@ -10,27 +10,59 @@ export const API_CONFIG = {
         "6F": "https://script.google.com/macros/s/AKfycbzFNL6xt6jmZrWpBGG976ZPfBL9Pr4H7xjrMm_Bz9SPWXbpXnlf57nWVkXrR4ZoGS4C/exec",
     },
     "7": {
-        "7A": "", "7B": "", "7C": "", "7D": "", "7E": "", "7F": ""
+        "7A": "https://script.google.com/macros/s/AKfycbxdzsNtneA4ZuVwvKdsUbWlIDv4_Uk3xHU2yd8GWWIbM7AGCWmWqCncCj1rtm_RpuN3/exec",
+        "7B": "",
+        "7C": "",
+        "7D": "",
+        "7E": "",
+        "7F": "",
     },
     "8": {
-        "8A": "", "8B": "", "8C": "", "8D": "", "8E": "", "8F": ""
+        "8A": "",
+        "8B": "",
+        "8C": "",
+        "8D": "",
+        "8E": "",
+        "8F": "",
     },
     "9": {
-        "9A": "", "9B": "", "9C": "", "9D": "", "9E": "", "9F": ""
+        "9A": "",
+        "9B": "",
+        "9C": "",
+        "9D": "",
+        "9E": "",
+        "9F": "",
     },
     "10": {
         "10A": "",
-        "10B": "", "10C": "", "10D": "", "10E": "", "10F": ""
+        "10B": "",
+        "10C": "",
+        "10D": "",
+        "10E": "",
+        "10F": "",
     },
     "11": {
         "11A": "",
         "11B": "https://script.google.com/macros/s/AKfycbwbSjY0SklVTTt4JvksAgyFSS0v_wV4QZIBgWPPaSryJQjPdfC3MQauy4MlN6SFwkxL/exec",
-        "11C": "", "11D": "", "11E": "", "11F": ""
+        "11C": "",
+        "11D": "",
+        "11E": "",
+        "11F": "",
     },
     "12": {
-        "12A": "", "12B": "", "12C": "", "12D": "", "12E": "", "12F": ""
+        "12A": "",
+        "12B": "",
+        "12C": "",
+        "12D": "",
+        "12E": "",
+        "12F": "",
     },
     "13": {
-        "13A": "", "13B": "", "13C": "", "13D": "", "13E": "", "13F": ""
+        "13A": "",
+        "13B": "",
+        "13C": "",
+        "13D": "",
+        "13E": "",
+        "13F": "",
     }
 };
