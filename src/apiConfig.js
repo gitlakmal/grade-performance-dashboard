@@ -11,11 +11,12 @@ export const API_CONFIG = {
     },
     "7": {
         "7A": "https://script.google.com/macros/s/AKfycbxdzsNtneA4ZuVwvKdsUbWlIDv4_Uk3xHU2yd8GWWIbM7AGCWmWqCncCj1rtm_RpuN3/exec",
-        "7B": "",
-        "7C": "",
-        "7D": "",
-        "7E": "",
-        "7F": "",
+        "7B1": "https://script.google.com/macros/s/AKfycbxw6wNK7i26ZpUHa7pPnILqSvNJZBS8z7GgDz6DtuDxMvrAJdTaJCFIsH5Aoj_JdKSrcQ/exec",
+        "7B2": "https://script.google.com/macros/s/AKfycbw25H6JLe7F9Myrvab2M86sMNyWmsgy45PsZqsam7rjRP1e2z495tpnc2eZ4ZF_UfYmfQ/exec",
+        "7C": "https://script.google.com/macros/s/AKfycbzWAAct6ybF3OFEKZc5QI69mrat9iIvWvqGEKgz7noMpXgA1hT-Jq1GcYRVJe74QfWPxA/exec",
+        "7D": "https://script.google.com/macros/s/AKfycbzFa42LvCKCkYBwbW9zBpnFpQVXznrt0fU3Yl4B3HLu0JeTrWq6Ggr7FwKqX4tSQK71Mw/exec",
+        "7E": "https://script.google.com/macros/s/AKfycbx6_hk6CIIk9fHiSeHQNKUe7u-mVyBqsVuRxxRyj1pZYghMiO38G3jNXghgNqCJ3qR3/exec",
+        "7F": "https://script.google.com/macros/s/AKfycbyZ_OQQe-NenA-O-la33gqvtM5hzfKsVLuLbvAtw0L-VbTa7HNKVxqC2qebs3i-c0PmpQ/exec",
     },
     "8": {
         "8A": "",
